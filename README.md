@@ -45,30 +45,32 @@ Before you begin, ensure you have the following installed:
 
 ## Backend Setup (Node.js)
 
-1. **Clone the repository:**
+## 1. **Clone the repository:**
 
    git clone https://github.com/KashminShrestha/GTS_node_react.git
    cd GTS_node_react
 
-2. **Navigate to the backend folder:**
+## 2. **Navigate to the backend folder:**
    cd backend
 
-3. **Install backend dependencies:**
+## 3. **Install backend dependencies:**
     npm install
 
-4. **Start the Server:**
+## 4. **Start the Server:**
     node server.js
+
     This will start the Node.js backend server.It will run on http://localhost:3001.
 
 ## Frontend Setup (React)
     cd frontend
 
-1. **Install frontend dependencies:**
+## 1. **Install frontend dependencies:**
     npm install
 
-2. **Start the Application:**
+## 2. **Start the Application:**
     npm run dev
+
     This will start the React development server.It will run on http://localhost:3000.
 
 
-## If you are stuck while installation or have any error take Reference of ChatGPT or Claude or gemini for installation
+** If you are stuck while installation or have any error take Reference of ChatGPT or Claude or gemini for installation ** 
