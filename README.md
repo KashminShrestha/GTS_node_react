@@ -47,8 +47,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
 
-   git clone https://github.com/KashminShrestha/GTS_node_react.git
-   cd GTS_node_react
+   ## git clone https://github.com/KashminShrestha/GTS_node_react.git
+   ## cd GTS_node_react
 
 2. **Navigate to the backend folder:**
    cd backend
@@ -72,4 +72,4 @@ Before you begin, ensure you have the following installed:
     This will start the React development server.It will run on http://localhost:3000.
 
 
-Take Reference of ChatGPT or Claude or gemini for more information and installation
+## If you are stuck while installation or have any error take Reference of ChatGPT or Claude or gemini for installation
